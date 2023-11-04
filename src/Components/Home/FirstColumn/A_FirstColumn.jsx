@@ -6,7 +6,7 @@ import { F_Framworks } from "./F_Framworks"
 
 export const A_FirstColumn = () => {
   return (
-    <div className="">
+    <div className="border border-0">
       <B_CardPicture/>
       <C_CardInformationBasic/>
       <D_Languaje/>

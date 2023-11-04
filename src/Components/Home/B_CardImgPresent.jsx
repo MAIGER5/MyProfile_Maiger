@@ -1,5 +1,5 @@
 import imgCardPresent from '../../Multimedia/Images/imgCardPresent.png'
-import git from '../../Multimedia/Images/git1.jpg'
+import git from '../../Multimedia/Images/git3.jpg'
 import imgDinamic from '../../Multimedia/Images/imgDinamic.gif'
 
 
@@ -24,7 +24,7 @@ export const B_CardImgPresent = () => {
                   OVALLE RUZ
                 </h1>
                 <h1 className="card-text text-white fs-5 pb-4">
-                  Fullstack Developer & Telecomnunication Engeneer
+                  Full Stack Developer & Telecommunications Engineer
                 </h1>
                 <div className="btn btn-success rounded-0">ABOUT ME</div>
               </div>
