@@ -18,7 +18,7 @@ export const CardStudy = () => {
             </div>
             <div className="col-8 border border-0">
               <div className="card-body">
-                <h6 className="card-title text-start text-white ">Full Stack Developer</h6>
+                <h6 className="card-title text-start text-white fw-normal ">Full Stack Developer (HENRY) <br /><a href="" className='text-dark text-decoration-none' style={{fontSize:'12px'}}>2022</a></h6>
               </div>
             </div>
           </div>
@@ -32,7 +32,7 @@ export const CardStudy = () => {
             </div>
             <div className="col-8 border border-0">
               <div className="card-body">
-                <h6 className="card-title text-start text-white ">Full Stack Developer</h6>
+                <h6 className="card-title text-start text-white fw-normal">Specialist in Occupational H & S  (UNIR)<br /><a href="" className='text-dark text-decoration-none' style={{fontSize:'12px'}}>2021-2022</a></h6>
               </div>
             </div>
           </div>
@@ -46,7 +46,7 @@ export const CardStudy = () => {
             </div>
             <div className="col-8 border border-0">
               <div className="card-body">
-                <h6 className="card-title text-start text-white ">Full Stack Developer</h6>
+                <h6 className="card-title text-start text-white  fw-normal">Telecommunication Engineer (Colombian Navy)<br /><a href="" className='text-dark text-decoration-none' style={{fontSize:'12px'}}>2015-2020</a> </h6>
               </div>
             </div>
           </div>
@@ -60,13 +60,13 @@ export const CardStudy = () => {
             </div>
             <div className="col-8 border border-0">
               <div className="card-body">
-                <h6 className="card-title text-start text-white ">Full Stack Developer</h6>
+                <h6 className="card-title text-start text-white  fw-normal">Electromagnetic Communications Technologist <br /><a href="" className='text-dark text-decoration-none' style={{fontSize:'12px'}}>1998-1999</a></h6>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div className="col p-1  border border-0">
+      {/* <div className="col p-1  border border-0">
         <div className="card h-100 rounded-0 bg-transparent shadow">
           <div className="row g-0">
             <div className="col-3 border border-0">
@@ -74,12 +74,12 @@ export const CardStudy = () => {
             </div>
             <div className="col-8 border border-0">
               <div className="card-body">
-                <h6 className="card-title text-start text-white ">Full Stack Developer</h6>
+                <h6 className="card-title text-start text-white  fw-normal">Full Stack Developer</h6>
               </div>
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
 
     </div>
   )
