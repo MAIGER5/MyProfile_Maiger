@@ -3,7 +3,6 @@ import { A_FirstColumn } from "./FirstColumn/A_FirstColumn"
 import { A_SecondColumn } from "./SecondColumn/A_SecondColumn"
 
 
-
 export const Home = () => {
   return (
 

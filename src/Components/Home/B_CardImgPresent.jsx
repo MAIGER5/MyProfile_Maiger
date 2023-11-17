@@ -1,13 +1,14 @@
 import imgCardPresent from '../../Multimedia/Images/imgCardPresent.png'
-import git from '../../Multimedia/Images/git3.jpg'
-import imgDinamic from '../../Multimedia/Images/imgDinamic.gif'
+import git from '../../Multimedia/Images/git2.png'
+import imgDinamic from '../../Multimedia/Images/imgDinamic.gif';
+import styles from './Home.module.css'
 
 
 export const B_CardImgPresent = () => {
   return (
     <div className="position-relative border-1" style={{height:'500px'}}>
       <div style={{width:'100%', height:'500px', overflow:'hidden'}}>
-        <img src={git} alt=""style={{width:'100%', height:'100%', objectFit:'cover', objectPosition:'center'}}/>
+        <img src={git} alt="" className={styles.imgCardPresent}/>
       </div>
       <div className='position-absolute top-0 left-0 w-100 h-100 d-flex justify-content-center align-items-center px-5 '>
         <div className="card border-info border-0 bg-transparent">

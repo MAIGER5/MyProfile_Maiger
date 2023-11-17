@@ -11,7 +11,7 @@ export const CardStudy = () => {
         <h1 className='fs-4 text-warning fw-normal text-center p-2'>Education</h1>
       </div>
       <div className="col p-1 border border-0">
-        <div className="card h-100 rounded-0 bg-transparent shadow">
+        <div className="card h-100 rounded-0 bg-success shadow">
           <div className="row g-0">
             <div className="col-3 border border-0">
               <i className="bi bi-code card-img-top fs-2 text-warning  pt-3  d-flex justify-content-center"></i>
@@ -46,7 +46,7 @@ export const CardStudy = () => {
             </div>
             <div className="col-8 border border-0">
               <div className="card-body">
-                <h6 className="card-title text-start text-white  fw-normal">Telecommunication Engineer (Colombian Navy)<br /><a href="" className='text-dark text-decoration-none' style={{fontSize:'12px'}}>2015-2020</a> </h6>
+                <h6 className="card-title text-start text-white  fw-normal">Telecommunication Engineer<br /><a href="" className='text-dark text-decoration-none' style={{fontSize:'12px'}}>2015-2020</a> </h6>
               </div>
             </div>
           </div>

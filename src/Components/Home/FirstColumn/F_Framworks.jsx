@@ -7,6 +7,12 @@ export const F_Framworks = () => {
         <div className="form-check py-2">
           <input className="form-check-input bg-success " type="checkbox" name="flexRadioDefault" id="flexRadioDefault2" checked />
           <label className="form-check-label"  >
+            GitBash
+          </label>
+        </div>
+        <div className="form-check py-2">
+          <input className="form-check-input bg-success " type="checkbox" name="flexRadioDefault" id="flexRadioDefault2" checked />
+          <label className="form-check-label"  >
             GitHub
           </label>
         </div>
@@ -25,12 +31,6 @@ export const F_Framworks = () => {
           </label>
         </div>
 
-        <div className="form-check py-2">
-          <input className="form-check-input bg-success " type="checkbox" name="flexRadioDefault" id="flexRadioDefault2" checked />
-          <label className="form-check-label"  >
-            GitHub
-          </label>
-        </div>
 
       </div>
 
