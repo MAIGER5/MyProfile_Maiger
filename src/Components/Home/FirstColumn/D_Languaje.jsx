@@ -11,13 +11,13 @@ export const D_Languaje = () => {
         <div className="col-4 text-dark">
             <p className="text-white text-center">English</p>
             <div className="progress" role="progressbar" aria-label="Success example" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
-                <div className="progress-bar bg-dark text-primary" style={{width: '40%'}}>40%</div>
+                <div className="progress-bar bg-dark text-primary" style={{width: '70%'}}>70%</div>
             </div>
         </div>
         <div className="col-4 text-dark">
             <p className="text-white text-center">French</p>
             <div className="progress" role="progressbar" aria-label="Success example" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
-                <div className="progress-bar bg-dark text-primary" style={{width: '15%'}}>15%</div>
+                <div className="progress-bar bg-dark text-primary" style={{width: '10%'}}>10%</div>
             </div>
         </div>
 

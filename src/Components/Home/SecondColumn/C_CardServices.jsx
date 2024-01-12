@@ -29,7 +29,7 @@ export const C_CardServices = () => {
           <i className="bi bi-database-fill-add card-img-top fs-1 text-warning px-4 pt-3  d-flex justify-content-center"></i>
           <div className="card-body text-black px-4 ">
             <h5 className="card-title d-flex justify-content-center text-center text-warning pb-2">Back-End Developer</h5>
-            <p className="card-text text-center text-white">Implementation Web APP using NodeJS & SQL, Sequelize. </p>
+            <p className="card-text text-center text-white">Implementation Web APP using NodeJS & Postgres, Sequelize. </p>
           </div>
         </div>
       </div>

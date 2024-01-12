@@ -1,7 +1,8 @@
-import imgCardPresent from '../../Multimedia/Images/imgCardPresent.png'
+// import imgCardPresent from '../../Multimedia/Images/imgCardPresent.png'
 import git from '../../Multimedia/Images/git2.png'
-import imgDinamic from '../../Multimedia/Images/imgDinamic.gif';
+// import imgDinamic from '../../Multimedia/Images/imgDinamic.gif';
 import styles from './Home.module.css'
+import { Link } from 'react-router-dom'
 
 
 export const B_CardImgPresent = () => {
@@ -27,7 +28,7 @@ export const B_CardImgPresent = () => {
                 <h1 className="card-text text-white fs-5 pb-4">
                   Full Stack Developer & Telecommunications Engineer
                 </h1>
-                <div className="btn btn-success rounded-0">ABOUT ME</div>
+                <Link to={'/MyProyects'} className="btn btn-success rounded-0">ABOUT ME</Link>
               </div>
             </div>
           </div>
