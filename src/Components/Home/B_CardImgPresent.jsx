@@ -28,7 +28,7 @@ export const B_CardImgPresent = () => {
                 <h1 className="card-text text-white fs-5 pb-4">
                   Full Stack Developer & Telecommunications Engineer
                 </h1>
-                <Link to={'/MyProyects'} className="btn btn-success rounded-0">ABOUT ME</Link>
+                <Link to={'/MyProyects'} className={`btn rounded-0 fw-bolder w-50 ${styles.botonProyects}`}>My Proyects</Link>
               </div>
             </div>
           </div>

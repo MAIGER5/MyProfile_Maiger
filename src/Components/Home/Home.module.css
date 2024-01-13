@@ -4,3 +4,12 @@
     object-fit: cover;
     object-position: center;
 }
+
+.botonProyects{
+    background: #226A8A;
+    color: white;
+}
+.botonProyects:hover{
+    background: #95C11F;
+    color: white;
+}
